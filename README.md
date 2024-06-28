@@ -1,6 +1,8 @@
 # Smart Shopper Profiling System Using RFM-T
 
+![image](https://github.com/roniantoniius/Smart-Shopper-Profiling-System-Using-RFM-T/assets/121453378/60b72632-d290-4262-9b89-0aaaefccf7ae)
 Image Sources: Pexels.com
+
 In today's digital era, e-commerce faces the challenge of understanding and optimizing their customer experience. The main issue at hand is how to effectively profile customers based on their transaction frequency and spending amount. With a variety of customer information such as demographic data, shopping habits, and feedback, companies need to analyze this data in depth to identify patterns and trends that can help improve their business strategies. Without proper analysis, e-commerce risks missing out on opportunities to increase customer loyalty, personalize offers, and better manage inventory.
 
 The "Smart Shopper Profiling System Using RFM-T" project aims to profile e-commerce customers based on transaction activity or how frequently they shop and the amount spent using RFM-T (Recency, Frequency, Monetary, Tenure). This goal is achieved by identifying three distinct customer segments, allowing companies to optimize marketing and customer service strategies. The solution provides a holistic view of customer behavior, enabling companies to develop more effective marketing strategies, improve customer service, and ultimately drive customer growth and loyalty. With comprehensively analyzed data, companies can make better and informed decisions to optimize their retail operations.
