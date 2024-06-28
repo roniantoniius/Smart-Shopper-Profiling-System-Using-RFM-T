@@ -1,5 +1,5 @@
 # Smart Shopper Profiling System Using RFM-T
-
+### Clustering Profiling With RFMT & K-Means
 ![image](https://github.com/roniantoniius/Smart-Shopper-Profiling-System-Using-RFM-T/assets/121453378/60b72632-d290-4262-9b89-0aaaefccf7ae)
 Image Sources: Pexels.com
 
