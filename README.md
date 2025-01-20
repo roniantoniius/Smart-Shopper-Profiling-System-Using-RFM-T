@@ -1,7 +1,5 @@
 # Smart Shopper Profiling System Using RFM-T
 ### Clustering Profiling With RFMT & K-Means
-![image](https://github.com/roniantoniius/Smart-Shopper-Profiling-System-Using-RFM-T/assets/121453378/60b72632-d290-4262-9b89-0aaaefccf7ae)
-Image Sources: Pexels.com
 
 In today's digital era, e-commerce faces the challenge of understanding and optimizing their customer experience. The main issue at hand is how to effectively profile customers based on their transaction frequency and spending amount. With a variety of customer information such as demographic data, shopping habits, and feedback, companies need to analyze this data in depth to identify patterns and trends that can help improve their business strategies. Without proper analysis, e-commerce risks missing out on opportunities to increase customer loyalty, personalize offers, and better manage inventory.
 
@@ -109,3 +107,5 @@ Recommendation:
     - Conduct regular customer satisfaction surveys and use the feedback to improve product and service quality.
 
 ------------------------------------------------------------------------
+![image](https://github.com/roniantoniius/Smart-Shopper-Profiling-System-Using-RFM-T/assets/121453378/60b72632-d290-4262-9b89-0aaaefccf7ae)
+Image Sources: Pexels.com
